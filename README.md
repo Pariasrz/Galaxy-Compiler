@@ -4,7 +4,7 @@ Lexical Analyzer and Parser for a programming language named Galaxy.
 Here are the rules for this programming language:
 - Integer:
 ```
-protostar x := 15 
+protostar x := 15 %
 ```
 A protostar is a star in it's early stages.
 - Float:
@@ -59,6 +59,7 @@ A Nebula is an interstellar cloud of dust and gases where stars are born, so you
 	comment1
 	comment2
 	...
+	.|
 	```
 - Operators: This is very simple: Expression OPERATOR Expression. For example:
 ```
