@@ -1,0 +1,5 @@
+DL_OP = {'+':'ADD', '-':'SUBTRACT', '(':'PL', ')':'PI', '*':'MUL', '^':'EXPONENT', '&':'AND', '|':'OR', '/':'DIVIDE', 
+'//':'MODULE', ':=':'EQUAL', '=':'ASSIGNMENT', '<':'LESS THAN', '>':'GREATER THAN', '<=':'LESS THAN OR EAQUL', 
+'>=':'LESS THAN OR EAQUL', '!=':'NOT EQUAL', '%':'END OF LINE', ',' : 'vir' , '\t':'TAB'}
+RS = {'protostar':'INTEGER TYPE', 'star':'REAL TYPE', 'planet':'WORD TYPE', 'asteroid':'CHARACTER TYPE', 
+'cluster':'ARRAY TYPE', 'nebula':'CONDITIONAL STATEMENTS', 'ring':'STATES A LOOP'}
