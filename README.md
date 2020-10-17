@@ -1,6 +1,8 @@
 
 # Galaxy-Compiler
 Lexical Analyzer and Parser for a programming language named Galaxy based on a LL1 grammar which you can find [Here](https://github.com/Pariasrz/Galaxy-Compiler/blob/main/Parsing%20Table%20(LL1%20Grammar).txt) 
+
+
 Here are the rules for this programming language:
 - Integer:
 ```
